@@ -3027,7 +3027,7 @@ const Header = ()=>{
     }, undefined);
 };
 _c = Header;
-const RestaurantCard = ()=>{
+const RestaurantCard = (props)=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "res-card",
         style: {
@@ -3045,7 +3045,7 @@ const RestaurantCard = ()=>{
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                 className: "rest-name",
-                children: "Chinese Wok"
+                children: props.resName
             }, void 0, false, {
                 fileName: "App.js",
                 lineNumber: 31,
@@ -3068,7 +3068,7 @@ const RestaurantCard = ()=>{
                 columnNumber: 9
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                children: "Chinese, Asian, Tibetan, Desserts Omaxe"
+                children: "Chinese, Asian, Tibetan"
             }, void 0, false, {
                 fileName: "App.js",
                 lineNumber: 34,
@@ -3097,12 +3097,16 @@ const Body = ()=>{
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "res-container",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {}, void 0, false, {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {
+                        resName: "Chinese Woks"
+                    }, void 0, false, {
                         fileName: "App.js",
                         lineNumber: 44,
                         columnNumber: 9
                     }, undefined),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {}, void 0, false, {
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(RestaurantCard, {
+                        resName: "KFC"
+                    }, void 0, false, {
                         fileName: "App.js",
                         lineNumber: 45,
                         columnNumber: 9

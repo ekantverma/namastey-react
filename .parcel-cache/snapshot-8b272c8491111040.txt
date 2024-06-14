@@ -16,7 +16,7 @@
 37D:\namastey-react\node_modules\@babel133626924018005172 1
 112D:\namastey-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\ClassSelector.js133626924061557247 0
 50D:\namastey-react\node_modules\tslib\tslib.es6.mjs133626924056560625 0
-24D:\namastey-react\App.js133628613056994246 0
+24D:\namastey-react\App.js133628621236357891 0
 72D:\namastey-react\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133626924087819410 0
 40D:\namastey-react\node_modules\commander133626924054745459 1
 92D:\namastey-react\node_modules\csso\node_modules\css-tree\lib\definition-syntax\tokenizer.js133626924103789249 0
@@ -31,7 +31,7 @@
 73D:\namastey-react\node_modules\css-select\node_modules\dom-serializer\lib133626924061696941 1
 69D:\namastey-react\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133626924093786423 0
 60D:\namastey-react\node_modules\csso\lib\restructure\index.js133626924087202691 0
-22D:\namastey-react\dist133628613059693004 1
+22D:\namastey-react\dist133628621239123713 1
 62D:\namastey-react\node_modules\caniuse-lite\data\regions\VE.js133626924126054461 0
 39D:\namastey-react\node_modules\get-port133626924049407668 1
 85D:\namastey-react\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\media.cjs133626924086664132 0
@@ -518,7 +518,7 @@
 48D:\namastey-react\node_modules\stable\index.d.ts133626924045687469 0
 77D:\namastey-react\node_modules\css-select\lib\pseudo-selectors\pseudos.js.map133626924083014921 0
 84D:\namastey-react\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133626924119656851 0
-45D:\namastey-react\dist\index.9e4c6fd2.css.map133628612721513836 0
+45D:\namastey-react\dist\index.9e4c6fd2.css.map133628619915376541 0
 65D:\namastey-react\node_modules\@parcel\optimizer-css\package.json133626924049355640 0
 56D:\namastey-react\node_modules\css-select\lib\index.d.ts133626924087153510 0
 61D:\namastey-react\node_modules\svgo\plugins\removeComments.js133626924085048457 0
@@ -4386,7 +4386,7 @@
 73D:\namastey-react\node_modules\caniuse-lite\data\features\rel-noopener.js133626924123387711 0
 75D:\namastey-react\node_modules\caniuse-lite\data\features\rel-noreferrer.js133626924123417141 0
 65D:\namastey-react\node_modules\caniuse-lite\data\features\ruby.js133626924123657085 0
-41D:\namastey-react\dist\index.9e4c6fd2.css133628612721464134 0
+41D:\namastey-react\dist\index.9e4c6fd2.css133628619915346622 0
 67D:\namastey-react\node_modules\caniuse-lite\data\features\run-in.js133626924123665249 0
 79D:\namastey-react\node_modules\caniuse-lite\data\features\screen-orientation.js133626924123782980 0
 73D:\namastey-react\node_modules\caniuse-lite\data\features\script-async.js133626924123801485 0
@@ -5982,5 +5982,5 @@
 44D:\namastey-react\node_modules\.bin\svgo.cmd133626924150903092 0
 44D:\namastey-react\node_modules\.bin\svgo.ps1133626924150903092 0
 58D:\namastey-react\node_modules\.bin\update-browserslist-db133626924150903092 0
-40D:\namastey-react\dist\index.7826abd7.js133628613059321400 0
-44D:\namastey-react\dist\index.7826abd7.js.map133628613059653082 0
+40D:\namastey-react\dist\index.7826abd7.js133628621238944175 0
+44D:\namastey-react\dist\index.7826abd7.js.map133628621239093819 0
