@@ -19,9 +19,14 @@ const Header = () => {
   )
 }
 
+const styleCard = {
+  backgroundColor: 'f0f0f0',
+  color: 'white'
+}
+
 const RestaurantCard = () => {
   return (
-    <div className='res-card'>
+    <div className='res-card' style={styleCard}>
       <div className="res-img">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaMYtVi9_tfNcpsbGGseU6ehYgV9UeU3h7A&s"></img>
       </div>
@@ -37,7 +42,6 @@ const RestaurantCard = () => {
     </div>
   )
 }
-
 
 const Body = () => {
   return (
