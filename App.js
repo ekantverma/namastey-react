@@ -19,27 +19,20 @@ const Header = () => {
   )
 }
 
-const styleCard = {
-  backgroundColor: 'f0f0f0',
-  color: 'white'
-}
-
 const RestaurantCard = () => {
   return (
-    <div className='res-card' style={styleCard}>
-      <div className="res-img">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaMYtVi9_tfNcpsbGGseU6ehYgV9UeU3h7A&s"></img>
+    <div className='res-card' style={{ 
+      backgroundColor: 'f0f0f0'
+    }}>
+        <img 
+        className='res-logo'
+        alt='res-logo' 
+        src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f996b31033fd07603bfb28cb4e526683"></img>
+        <h3 className='rest-name'>Chinese Wok</h3>
+        <h4 className='rest-stars'>4.4 Stars</h4>
+        <h4 className="rest-time">38 Minutes</h4>
+        <h4>Chinese, Asian, Tibetan, Desserts Omaxe</h4>
       </div>
-      <div className="res-info">
-        <div className="res-name">Restaurant Name</div>
-        <div className="res-address">Address</div>
-        <div className="res-rating">Rating</div>
-        <div className="res-cuisine">Cuisine</div>
-      </div>
-      <div className="res-price">Price</div>
-      <div className="res-menu">Menu</div>
-      <div className="res-order">Order Now</div>
-    </div>
   )
 }
 
@@ -48,6 +41,11 @@ const Body = () => {
     <div className="body">
       <div className="search">Search</div>
       <div className='res-container'>
+        <RestaurantCard/>
+        <RestaurantCard/>
+        <RestaurantCard/>
+        <RestaurantCard/>
+        <RestaurantCard/>
         <RestaurantCard/>
       </div>
     </div>
