@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    height: 79.34px;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nav-items {
+    display: flex;
+    align-items: center;
+}
+.nav-items > ul {
+    display: flex;
+    font-size: 20px;
+    margin-left: 200px;
+    align-items: center;
+}
+
+.nav-items > ul > li {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 273px;
+    height: 283px;
+    padding: 0 32px 0 16px;
+}
